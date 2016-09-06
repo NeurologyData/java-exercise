@@ -1,0 +1,9 @@
+package practice;
+
+public class Scrap {
+	public static void main (String[] args){
+		double x = Math.round(-0.5);
+		System.out.println(x);
+	}
+
+}

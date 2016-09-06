@@ -1,0 +1,9 @@
+package practice;
+
+public class Scrap {
+	double x = Math.abs(-0.5);
+	public static void main (String[] args){
+		System.out.println(x);
+	}
+
+}
