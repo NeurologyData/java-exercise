@@ -1,7 +1,0 @@
-package practice;
-
-public class Scrap {
-	int x;
-	x = Math.abs(-0.5);
-	System.out.println(x);
-}
